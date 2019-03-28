@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PAS</string>
+    <string name="title_activity_live_vedio">LiveVedio</string>
+    <string name="title_activity_mcall">MCall</string>
+    <string name="title_activity_information">information</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_mmtime">MMTime</string>
+    <string name="title_activity_add_m">AddM</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
